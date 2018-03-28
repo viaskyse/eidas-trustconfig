@@ -7,6 +7,6 @@ This repository is open to read and anyone can contribute issues and propose upd
 
 ### Current version
 
-The current version of the proposal is available here:
+The current version of the study report is available here:
 > [Trust configuration for eIDAS nodes](docs/eidas-trust-configuration.md)
 

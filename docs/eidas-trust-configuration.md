@@ -54,13 +54,13 @@ There are currently 2 main models to consider for eIDAS trust configuration:
 
 The peer to peer out of band model is illustrated by the following image:
 
-<img src="img/mesh.pdf" width=600> 
+<img src="img/mesh.png" width=600> 
 
 This setup is time consuming, hard to maintain and does not scale as the number of eIDAS nodes grows and the importance of uninterrupted service increases.
 
 The central repository model is illustrated by the following image:
 
-<img src="img/central-repo.pdf" width=600> 
+<img src="img/central-repo.png" width=600> 
 
 
 Here each country only shared trusted data to a single central trusted repository, which then shares this information to each eIDAS node.
